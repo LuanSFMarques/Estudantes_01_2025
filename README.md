@@ -1,5 +1,7 @@
 # Projeto de Visualização de Dados: Análise de Horas de Sono e Desempenho Acadêmico
 
+![Plot de Análise](plot.png)
+
 ## Descrição
 
 Este projeto tem como objetivo analisar a relação entre as horas de sono e o desempenho acadêmico de alunos. Através de gráficos de dispersão e histogramas, exploramos como as variáveis como **Horas de Estudo**, **Motivação**, e **Notas em Exames** se correlacionam com o **Número de Horas de Sono**.
